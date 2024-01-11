@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyAGSQ5vMAwXc07GVvxIPJ2H2U-MRJMknog</string>
+	<key>GCM_SENDER_ID</key>
+	<string>863054071105</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fluttertube</string>
+	<key>PROJECT_ID</key>
+	<string>videouploader-b8026</string>
+	<key>STORAGE_BUCKET</key>
+	<string>videouploader-b8026.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:863054071105:ios:cf04746d7ad3f2bb454dc0</string>
+</dict>
+</plist>

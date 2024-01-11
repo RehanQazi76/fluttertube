@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863054071105",
+    "project_id": "videouploader-b8026",
+    "storage_bucket": "videouploader-b8026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863054071105:android:8aeed7d1c1283242454dc0",
+        "android_client_info": {
+          "package_name": "com.example.fluttertube"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ0X4P2d6iGLjAqdbFKYv8pWlt66xCCzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
